@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @ThevinduSK
+- 👋 Hi, I’m Thevindu Kalubowila
+- I’m currently a second year student in Electronics and Telecommunication Department of University of Moratuwa 
 - 👀 I’m interested in Computer Vision and Pattern Recognition
-- 🌱 I’m currently learning Electronics and Telecommunication
+
 - 📫 How to reach me www.linkedin.com/in/thevindu-kalubowila
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
 
 <!---
 ThevinduSK/ThevinduSK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

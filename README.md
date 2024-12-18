@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Thevindu Kalubowila
 - I’m currently a second year student in Electronics and Telecommunication Department of University of Moratuwa 
-- 👀 I’m interested in Computer Vision and Pattern Recognition
 
 - 📫 How to reach me www.linkedin.com/in/thevindu-kalubowila
 - 😄 Pronouns: he/him

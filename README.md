@@ -3,7 +3,7 @@
 
 - 📫 How to reach me www.linkedin.com/in/thevindu-kalubowila
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: 
+- ⚡ Gaze Upon the Stars and See no Limit
 
 <!---
 ThevinduSK/ThevinduSK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
